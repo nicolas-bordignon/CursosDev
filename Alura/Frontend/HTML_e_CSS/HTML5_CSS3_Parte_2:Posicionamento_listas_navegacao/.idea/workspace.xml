@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47145d01-e902-410d-b553-91512bdec932" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imagens/index/banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/index/beneficios.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/produtos/barba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/produtos/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/produtos/cabelo+barba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/produtos/cabelo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/produtos/logo-branco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imagens/produtos/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produtos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/produtos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/beneficios.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtos.css" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produtos.html" beforeDir="false" afterPath="$PROJECT_DIR$/produtos.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +40,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -65,7 +61,7 @@
       <workItem from="1607051091528" duration="884000" />
       <workItem from="1607051999336" duration="1190000" />
       <workItem from="1607053201157" duration="133000" />
-      <workItem from="1607053351202" duration="453000" />
+      <workItem from="1607053351202" duration="2717000" />
     </task>
     <servers />
   </component>
