@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47145d01-e902-410d-b553-91512bdec932" name="Default Changelist" comment="06. Pseudo-classes CSS&#10;- Adicionada estilização hover para quando o mouse estiver sobre o menu de navegação e os cards de produto &#10;- Adicionada a estilização active para quando o mouse estiver clicando no card de produto">
+    <list default="true" id="47145d01-e902-410d-b553-91512bdec932" name="Default Changelist" comment="07. Finalizando a página de produtos&#10;- Adicionado a tag &lt;footer&gt;&#10;- Adicionada imagem de fundo do rodapé&#10;- Estilizada a fonte e posicionamento dos elementos do rodapé&#10;- Adicionado caractere especial unicode de copyright">
+      <change afterPath="$PROJECT_DIR$/images/index/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/index/logo-branco.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/produtos.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/produtos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/produtos.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/produtos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/index" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -49,6 +51,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/index" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,7 +74,7 @@
       <workItem from="1607238435119" duration="85000" />
       <workItem from="1607238545114" duration="939000" />
       <workItem from="1607263373023" duration="322000" />
-      <workItem from="1607263708362" duration="10520000" />
+      <workItem from="1607263708362" duration="12832000" />
     </task>
     <task id="LOCAL-00001" summary="04. A tag section&#10;- Criada a tag main com o conteúdo principal da página&#10;- Criada lista complexa com título, imagem, descrição e preço dos produtos&#10;- Estilização do conteúdo principal da página produtos.html&#10;- Modificação na estrutura de pastas do projeto">
       <created>1607269684546</created>
@@ -90,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607283094534</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="07. Finalizando a página de produtos&#10;- Adicionado a tag &lt;footer&gt;&#10;- Adicionada imagem de fundo do rodapé&#10;- Estilizada a fonte e posicionamento dos elementos do rodapé&#10;- Adicionado caractere especial unicode de copyright">
+      <created>1607284541215</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607284541215</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +134,7 @@
     <MESSAGE value="04. A tag section&#10;- Criada a tag main com o conteúdo principal da página&#10;- Criada lista complexa com título, imagem, descrição e preço dos produtos&#10;- Estilização do conteúdo principal da página produtos.html&#10;- Modificação na estrutura de pastas do projeto" />
     <MESSAGE value="05. Lidando com bordas&#10;- Adicionado bordas na lista de produtos&#10;- Adicionado arredondamento nas bordas dos produtos" />
     <MESSAGE value="06. Pseudo-classes CSS&#10;- Adicionada estilização hover para quando o mouse estiver sobre o menu de navegação e os cards de produto &#10;- Adicionada a estilização active para quando o mouse estiver clicando no card de produto" />
-    <option name="LAST_COMMIT_MESSAGE" value="06. Pseudo-classes CSS&#10;- Adicionada estilização hover para quando o mouse estiver sobre o menu de navegação e os cards de produto &#10;- Adicionada a estilização active para quando o mouse estiver clicando no card de produto" />
+    <MESSAGE value="07. Finalizando a página de produtos&#10;- Adicionado a tag &lt;footer&gt;&#10;- Adicionada imagem de fundo do rodapé&#10;- Estilizada a fonte e posicionamento dos elementos do rodapé&#10;- Adicionado caractere especial unicode de copyright" />
+    <option name="LAST_COMMIT_MESSAGE" value="07. Finalizando a página de produtos&#10;- Adicionado a tag &lt;footer&gt;&#10;- Adicionada imagem de fundo do rodapé&#10;- Estilizada a fonte e posicionamento dos elementos do rodapé&#10;- Adicionado caractere especial unicode de copyright" />
   </component>
 </project>
