@@ -4,6 +4,7 @@
         <meta charset="UTF-8" />
         <title>Contato - Barbearia Alura</title>
         <link rel="stylesheet" href="../styles/reset.css" />
+        <link rel="stylesheet" href="../styles/stylePadrao.css">
         <link rel="stylesheet" href="../styles/contato.css" />
     </head>
 
@@ -26,13 +27,47 @@
         <main>
             <form>
                 <label for="nomeCompleto">Nome completo</label>
-                <input type="text" id="nomeCompleto">
+                <input type="text" id="nomeCompleto" class="inputPadrao">
 
                 <label for="email">Email</label>
-                <input type="text" id="email">
+                <input type="text" id="email" class="inputPadrao">
 
                 <label for="telefone">Telefone</label>
-                <input type="text" id="telefone">
+                <input type="text" id="telefone" class="inputPadrao">
+
+                <label for="mensagem">Mensagem</label>
+                <textarea name="mensagem" id="mensagem" cols="70" rows="10" class="inputPadrao"></textarea>
+
+                <div>
+                    <p>Como prefere o nosso contato?</p>
+                    <label for="radioEmail">
+                        <input type="radio" value="email" id="radioEmail" name="contato">
+                        Email
+                    </label>
+
+                    <label for="radioTelefone">
+                        <input type="radio" value="email" id="radioTelefone" name="contato">
+                        Telefone
+                    </label>
+
+                    <label for="radioWhatsapp">
+                        <input type="radio" value="email" id="radioWhatsapp" name="contato">
+                        Whatsapp
+                    </label>
+                </div>
+
+                <div>
+                    <p>Qual horário prefere ser atendido?</p>
+                    <label for="select"></label>
+                    <select name="select" id="select">
+                        <option value="Manhã">Manhã</option>
+                        <option value="Tarde">Tarde</option>
+                        <option value="Noite">Noite</option>
+                    </select>
+
+                </div>
+
+                <label><input type="checkbox" class="checkbox"> Gostaria de receber nossas novidades por email?</label>
 
                 <input type="submit" value="Enviar formulário">
             </form>

@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8f1aaa5-9f7d-4f70-a7c3-65139be008c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/styles/stylePadrao.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contato.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contato.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/produtos.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/produtos.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/contato.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/contato.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/produtos.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/produtos.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
   </component>
   <component name="ProjectId" id="1lIcmEnN7F3xYtpe2I575mADb9L" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,7 +60,7 @@
       <updated>1607288202475</updated>
       <workItem from="1607288203652" duration="1234000" />
       <workItem from="1607297944644" duration="74000" />
-      <workItem from="1607303532047" duration="4600000" />
+      <workItem from="1607303532047" duration="9242000" />
     </task>
     <task id="LOCAL-00001" summary="01. Criando uma nova página&#10;- Criando página de Contato com o cabeçalho e rodapé padrão do projeto&#10;- Mudança na estrutura de pasta de imagens">
       <created>1607305783459</created>
@@ -61,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607305783459</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="02. Começando um formulário&#10;- Adicionado um form no html para as entradas de dado do usuário e botão para envio destes dados&#10;- Estilizado o form para ficar centralizado, com largura de 50% da página, borda com raio 10px">
+      <created>1607309136419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607309136419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +96,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01. Criando uma nova página&#10;- Criando página de Contato com o cabeçalho e rodapé padrão do projeto&#10;- Mudança na estrutura de pasta de imagens" />
-    <option name="LAST_COMMIT_MESSAGE" value="01. Criando uma nova página&#10;- Criando página de Contato com o cabeçalho e rodapé padrão do projeto&#10;- Mudança na estrutura de pasta de imagens" />
+    <MESSAGE value="02. Começando um formulário&#10;- Adicionado um form no html para as entradas de dado do usuário e botão para envio destes dados&#10;- Estilizado o form para ficar centralizado, com largura de 50% da página, borda com raio 10px" />
+    <option name="LAST_COMMIT_MESSAGE" value="02. Começando um formulário&#10;- Adicionado um form no html para as entradas de dado do usuário e botão para envio destes dados&#10;- Estilizado o form para ficar centralizado, com largura de 50% da página, borda com raio 10px" />
   </component>
 </project>
