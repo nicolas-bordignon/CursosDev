@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47145d01-e902-410d-b553-91512bdec932" name="Default Changelist" comment="Projeto finalizado&#10;- Adicionado header e footer na tela index.html">
-      <change afterPath="$PROJECT_DIR$/images/geral/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/geral/logo-branco.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/logo-branco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/produtos/bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/produtos/logo-branco.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="47145d01-e902-410d-b553-91512bdec932" name="Default Changelist" comment="Projeto finalizado&#10;- Adicionado header e footer na tela index.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607286954241</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Projeto finalizado&#10;- Adicionado header e footer na tela index.html">
+      <created>1607287882533</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607287882533</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
